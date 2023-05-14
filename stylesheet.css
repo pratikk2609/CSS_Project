@@ -2,21 +2,64 @@ body {
     color: green;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
+    background-color: #ECCDB4;
+    background-image: url(clouds-01.jpg);
+    
+
 }
 h1, h2{
     border-bottom: 1px solid black;
 }
 
-.blue{
-    color: blue;
+#para1homepage{
+    color:blue;
     font-size: 25px;
 
 }
-p.purple{
-    color: purple;
+#para2homepage{
+    
     font-size: 25px;
+    background-color: #F9FBE7;
+    padding: 20px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    
 }
-.underline{
-    text-decoration: underline;
+#para3homepage{
+    
+    font-size: 25px;
+    background-color: #F9FBE7;
+    padding: 20px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    margin: 20px;
+    margin-top: 50px;
+    margin-left: 400px;
+    
+}
 
+#divmain{
+    color: black;
+    
+}
+#div{
+    color: black;
+    
+}
+
+img.imagec {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: silver;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+
+}
+.highlight{
+    background-color: yellowgreen;
 }
